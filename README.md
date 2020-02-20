@@ -1,1 +1,2 @@
-# SAli
+ABOUT MYSELF
+I am an AI/Machine Learning Engineer who solves data science problems across a broad range of industry applications utilizing supervised and unsupervised machine learning algorithms to find useful facts from diverse, structured and unstructured data on a massive scale. I collect problem related data regularly; I also develop and execute a central data strategy to drive revenue. As a thought leader, I enable organizations to use their data assets to their full potential to support their business operations. My daily focus is on demonstrating how an organization can integrate data-driven decision making into all areas of their business from strategy development down to the deployment of specific product innovation for a sustainable business. 
