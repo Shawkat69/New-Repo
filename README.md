@@ -1,4 +1,18 @@
-ABOUT MYSELF -
-I am an AI/Machine Learning Engineer who solves data science problems across a broad range of industry applications utilizing supervised and unsupervised machine learning algorithms to find useful facts from diverse, structured and unstructured data on a massive scale. I collect problem related data regularly; I also develop and execute a central data strategy to drive revenue. As a thought leader, I enable organizations to use their data assets to their full potential to support their business operations. My daily focus is on demonstrating how an organization can integrate data-driven decision making into all areas of their business from strategy development down to the deployment of specific product innovation for a sustainable business. 
+🚀 Welcome to My GitHub Readme!
 
-Some new codes in Python are coming soon from my real life experiences.
+About Me
+I am a passionate and accomplished Professor in Data Science, currently serving at The University of Fiji's esteemed Department of Computer Science and Mathematics. Throughout my career spanning from 1997 to 2022, I have held various positions from Lecturer to Professor in prestigious universities across Australia, Asia, and the South Pacific. Additionally, I have contributed my expertise to the industries in Australia and Fiji as an AI expert.
+
+My Journey and Expertise
+Obtaining a research-based PhD degree in Machine Learning from Monash University in 2005 has been a pivotal point in my career, igniting my passion for research, program coordination, and academic leadership. I have excelled as a lecturer, researcher, research coordinator, and even held roles such as General Chair for international conferences and Chair of various committees.
+
+Contributions and Achievements
+I take immense pride in my scholarly contributions, with over 150 published papers and two authored books, mainly focusing on Machine Learning algorithms like Support Vector Machine, Neural Network, Deep Learning, and Ensemble Learning. My international collaborations have led to the establishment of two prestigious conferences, and I am honored to serve as a chief editor for international journals.
+
+Awards and Recognition
+My dedication to research and excellence has been recognized through several awards, including the Vice-Chancellor Research Excellence Award 2014 and the Outstanding Leadership Award 2013. Notably, I have successfully supervised over 15 postgraduate students in esteemed Australian and South Pacific universities.
+
+Embracing the Tech Community
+As a Senior Member of IEEE, the world's largest professional organization, I actively engage in advancing Data Science knowledge and mentorship, contributing to the vibrant tech community.
+
+Thank you for visiting my GitHub! Feel free to explore my repositories and connect with me on LinkedIn for further collaboration and discussions. 🌟
